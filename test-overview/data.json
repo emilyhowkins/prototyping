@@ -1,0 +1,904 @@
+{
+  "generated": "2026-10-27",
+  "tests": [
+    {
+      "id": "filter-chip-v2-test",
+      "name": "Filter chip v2",
+      "owner": "Troels",
+      "area": "Tables",
+      "status": "live",
+      "started": "2026-10-20",
+      "ends": "2026-11-14",
+      "link": "https://example.com/prototypes/filter-chip-v2-test/",
+      "about": "Can users find and apply the new filter chips without the old filter panel?",
+      "type": "unmoderated-test"
+    },
+    {
+      "id": "emailforbindelser-test",
+      "name": "Emailforbindelser",
+      "owner": "Helle",
+      "area": "Integrations",
+      "status": "live",
+      "started": "2026-09-03",
+      "ends": "2026-10-31",
+      "link": "https://example.com/prototypes/emailforbindelser-test/",
+      "about": "Do users understand how to connect an email account and what happens after?",
+      "type": "unmoderated-test"
+    },
+    {
+      "id": "insightsbuilder-test",
+      "name": "Insights builder",
+      "owner": "Pernille",
+      "area": "Financial insights",
+      "status": "live",
+      "started": "2026-10-13",
+      "ends": "2026-10-30",
+      "link": "https://example.com/prototypes/insightsbuilder-test/",
+      "about": "Can a business owner build a simple insight without help?",
+      "type": "moderated-test"
+    },
+    {
+      "id": "bankafstemning-periodevalg-test",
+      "name": "Bankafstemning: periodevalg",
+      "owner": "Marco",
+      "area": "Bank",
+      "status": "setup",
+      "started": null,
+      "ends": null,
+      "link": "https://example.com/prototypes/bankafstemning-periodevalg-test/",
+      "about": "Does period selection in bank reconciliation match how users think about periods?",
+      "type": "unmoderated-test"
+    },
+    {
+      "id": "pension-date-management-test",
+      "name": "Pension date management",
+      "owner": "Rikke",
+      "area": "Payroll",
+      "status": "finished",
+      "started": "2026-09-22",
+      "ends": "2026-10-03",
+      "link": "https://example.com/prototypes/pension-date-management-test/",
+      "about": "Can payroll users manage pension dates without errors?",
+      "type": "interview"
+    },
+    {
+      "id": "alle-fakturaer-test",
+      "name": "Alle fakturaer",
+      "owner": "Troels",
+      "area": "Invoicing",
+      "status": "finished",
+      "started": "2026-08-18",
+      "ends": "2026-09-05",
+      "link": "https://example.com/prototypes/alle-fakturaer-test/",
+      "about": "Do users find the right invoice faster in the new list?",
+      "type": "unmoderated-test"
+    },
+    {
+      "id": "filter-test",
+      "name": "Filter",
+      "owner": "Troels",
+      "area": "Tables",
+      "status": "finished",
+      "started": "2026-06-10",
+      "ends": "2026-06-24",
+      "link": "https://example.com/prototypes/filter-test/",
+      "about": "Is the first filter concept understandable at all?",
+      "type": "moderated-test"
+    },
+    {
+      "id": "reports-toolbar-v1",
+      "name": "Reports toolbar",
+      "owner": "Emily",
+      "area": "Reports",
+      "status": "finished",
+      "started": "2026-10-19",
+      "ends": "2026-10-24",
+      "link": "https://example.com/prototypes/reports-toolbar-v1/",
+      "about": "Demo of the kit's test flow on the reports toolbar.",
+      "type": "unmoderated-test"
+    }
+  ],
+  "contacts": [
+    {
+      "agreement": "1048213",
+      "test": "filter-chip-v2-test",
+      "date": "2026-10-21",
+      "by": "Troels",
+      "channel": "email",
+      "status": "invited"
+    },
+    {
+      "agreement": "1048213",
+      "test": "alle-fakturaer-test",
+      "date": "2026-08-19",
+      "by": "Troels",
+      "channel": "email",
+      "status": "completed"
+    },
+    {
+      "agreement": "2211908",
+      "test": "filter-chip-v2-test",
+      "date": "2026-10-21",
+      "by": "Troels",
+      "channel": "email",
+      "status": "completed"
+    },
+    {
+      "agreement": "2211908",
+      "test": "emailforbindelser-test",
+      "date": "2026-10-15",
+      "by": "Helle",
+      "channel": "email",
+      "status": "invited"
+    },
+    {
+      "agreement": "2211908",
+      "test": "insightsbuilder-test",
+      "date": "2026-10-14",
+      "by": "Pernille",
+      "channel": "phone",
+      "status": "completed"
+    },
+    {
+      "agreement": "3390027",
+      "test": "insightsbuilder-test",
+      "date": "2026-10-14",
+      "by": "Pernille",
+      "channel": "phone",
+      "status": "declined"
+    },
+    {
+      "agreement": "3390027",
+      "test": "pension-date-management-test",
+      "date": "2026-09-23",
+      "by": "Rikke",
+      "channel": "email",
+      "status": "completed"
+    },
+    {
+      "agreement": "4475100",
+      "test": "emailforbindelser-test",
+      "date": "2026-09-04",
+      "by": "Helle",
+      "channel": "email",
+      "status": "completed"
+    },
+    {
+      "agreement": "5126644",
+      "test": "filter-test",
+      "date": "2026-06-11",
+      "by": "Troels",
+      "channel": "email",
+      "status": "completed"
+    },
+    {
+      "agreement": "5126644",
+      "test": "alle-fakturaer-test",
+      "date": "2026-08-19",
+      "by": "Troels",
+      "channel": "email",
+      "status": "no-show"
+    },
+    {
+      "agreement": "6001872",
+      "test": "filter-chip-v2-test",
+      "date": "2026-10-21",
+      "by": "Troels",
+      "channel": "email",
+      "status": "invited"
+    },
+    {
+      "agreement": "12345",
+      "test": "insightsbuilder-test",
+      "date": "2026-10-21",
+      "by": "Pernille",
+      "channel": "email",
+      "status": "completed"
+    },
+    {
+      "agreement": "7710023",
+      "test": "insightsbuilder-test",
+      "date": "2026-10-24",
+      "by": "Pernille",
+      "channel": "email",
+      "status": "scheduled"
+    },
+    {
+      "agreement": "8082941",
+      "test": "insightsbuilder-test",
+      "date": "2026-10-24",
+      "by": "Pernille",
+      "channel": "email",
+      "status": "scheduled"
+    }
+  ],
+  "flags": [
+    {
+      "agreement": "4475100",
+      "type": "email-bounced",
+      "date": "2026-09-04",
+      "by": "Helle"
+    },
+    {
+      "agreement": "5126644",
+      "type": "contact-left-company",
+      "date": "2026-08-20",
+      "by": "Troels"
+    },
+    {
+      "agreement": "3390027",
+      "type": "opted-out",
+      "date": "2026-10-14",
+      "by": "Pernille"
+    },
+    {
+      "agreement": "8082941",
+      "type": "paused",
+      "reason": "Busy with year-end, asked us to wait",
+      "until": "2027-01-15",
+      "date": "2026-10-25",
+      "by": "Pernille"
+    }
+  ],
+  "panel": [
+    {
+      "agreement": "1048213",
+      "name": "Mette Nørgaard",
+      "email": "mette@nordlys.dk",
+      "phone": "+45 61 29 60 93",
+      "city": "København",
+      "languages": [
+        "da",
+        "en"
+      ],
+      "jobRole": "Administrerende direktør",
+      "userType": "BO",
+      "company": "Nordlys Design ApS",
+      "cvr": "10000000",
+      "subscription": "Smart",
+      "joined": "2023-02-27",
+      "participation": [
+        "tests",
+        "interviews"
+      ],
+      "interestAreas": [
+        "inventory"
+      ]
+    },
+    {
+      "agreement": "2211908",
+      "name": "Jonas Friis",
+      "email": "jonas@moellevang.dk",
+      "phone": "+45 88 22 56 84",
+      "city": "Aarhus",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Bogholder for flere virksomheder (ekstern)",
+      "userType": "AO",
+      "company": "Møllevang Consulting",
+      "cvr": "10373737",
+      "subscription": "Plus",
+      "joined": "2023-09-07",
+      "participation": [
+        "tests",
+        "surveys",
+        "interviews"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "3390027",
+      "name": "Camilla Bang",
+      "email": "camilla@kloevermark.dk",
+      "phone": "+45 24 21 65 63",
+      "city": "Odense",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Revisor for flere virksomheder",
+      "userType": "AO",
+      "company": "Kløvermark Revision",
+      "cvr": "10747474",
+      "subscription": "Basis",
+      "joined": "2023-04-03",
+      "participation": [
+        "surveys"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "4475100",
+      "name": "Rasmus Vestergaard",
+      "email": "rasmus@enghave.dk",
+      "phone": "+45 90 64 17 82",
+      "city": "Aalborg",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Administrationsmedarbejder",
+      "userType": "BO",
+      "company": "Enghave Bageri",
+      "cvr": "11121211",
+      "subscription": "Smart",
+      "joined": "2023-04-21",
+      "participation": [
+        "tests",
+        "onsite-economic",
+        "interviews"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "6001872",
+      "name": "Anders Mørch",
+      "email": "anders@hedebo.dk",
+      "phone": "+45 25 81 27 47",
+      "city": "Roskilde",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "IT/digitaliseringsansvarlig",
+      "userType": "BO",
+      "company": "Hedebo Landbrug",
+      "cvr": "11868685",
+      "subscription": "Smart",
+      "joined": "2026-03-18",
+      "participation": [
+        "surveys",
+        "onsite-customer",
+        "interviews"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "12345",
+      "name": "Signe Brandt",
+      "email": "signe@aahuset.dk",
+      "phone": "+45 35 83 49 81",
+      "city": "Vejle",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Administrerende direktør",
+      "userType": "BO",
+      "company": "Åhuset Yoga",
+      "cvr": "12242422",
+      "subscription": "Plus",
+      "joined": "2024-02-19",
+      "participation": [
+        "tests",
+        "interviews"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "7710023",
+      "name": "Mikkel Winther",
+      "email": "mikkel@havnegade.dk",
+      "phone": "+45 93 91 34 57",
+      "city": "Kolding",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Bogholder for én virksomhed (intern)",
+      "userType": "BO",
+      "company": "Havnegade Regnskab",
+      "cvr": "12616159",
+      "subscription": "Basis",
+      "joined": "2023-09-23",
+      "participation": [
+        "tests",
+        "surveys",
+        "interviews"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "8082941",
+      "name": "Katrine Toft",
+      "email": "katrine@groen.dk",
+      "phone": "+45 28 82 17 89",
+      "city": "Horsens",
+      "languages": [
+        "da",
+        "en"
+      ],
+      "jobRole": "Revisor for én virksomhed",
+      "userType": "BO",
+      "company": "Grøn Have Anlæg",
+      "cvr": "12989896",
+      "subscription": "Smart",
+      "joined": "2024-08-22",
+      "participation": [
+        "surveys",
+        "interviews"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "1537499",
+      "name": "Frederik Holm",
+      "email": "frederik@solsiden.dk",
+      "phone": "+45 88 64 50 69",
+      "city": "Randers",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Lønansvarlig",
+      "userType": "BO",
+      "company": "Solsiden Fysioterapi",
+      "cvr": "13363633",
+      "subscription": "Pro",
+      "joined": "2026-06-10",
+      "participation": [
+        "tests",
+        "onsite-economic",
+        "interviews"
+      ],
+      "interestAreas": [
+        "inventory"
+      ]
+    },
+    {
+      "agreement": "1586110",
+      "name": "Line Bech",
+      "email": "line@tvaergade.dk",
+      "phone": "+45 51 33 99 41",
+      "city": "København",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Anden rolle",
+      "userType": "BO",
+      "company": "Tværgade Advokater",
+      "cvr": "13737370",
+      "subscription": "Smart",
+      "joined": "2023-10-10",
+      "participation": [
+        "tests",
+        "surveys",
+        "onsite-customer",
+        "interviews"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "1634721",
+      "name": "Thomas Hald",
+      "email": "thomas@kystens.dk",
+      "phone": "+45 87 73 53 67",
+      "city": "Aarhus",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Controller",
+      "userType": "BO",
+      "company": "Kystens Fiskehus",
+      "cvr": "14111107",
+      "subscription": "Plus",
+      "joined": "2025-10-03",
+      "participation": [
+        "surveys",
+        "onsite-customer",
+        "interviews"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "1683332",
+      "name": "Maja Kjær",
+      "email": "maja@vestkyst.dk",
+      "phone": "+45 35 75 63 31",
+      "city": "Odense",
+      "languages": [
+        "da",
+        "en"
+      ],
+      "jobRole": "Ejer/partner",
+      "userType": "BO",
+      "company": "Vestkyst Maling",
+      "cvr": "14484844",
+      "subscription": "Basis",
+      "joined": "2025-03-16",
+      "participation": [
+        "tests",
+        "interviews"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "1731943",
+      "name": "Kasper Krog",
+      "email": "kasper@birkelund.dk",
+      "phone": "+45 73 15 95 19",
+      "city": "Aalborg",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Bogholder for én virksomhed (intern)",
+      "userType": "BO",
+      "company": "Birkelund Elektrik",
+      "cvr": "14858581",
+      "subscription": "Smart",
+      "joined": "2025-06-23",
+      "participation": [
+        "tests",
+        "surveys"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "1780554",
+      "name": "Ida Bisgaard",
+      "email": "ida@bakkehuset.dk",
+      "phone": "+45 64 86 73 84",
+      "city": "Esbjerg",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Revisorassistent/regnskabsassistent",
+      "userType": "AO",
+      "company": "Bakkehuset Byg",
+      "cvr": "15232318",
+      "subscription": "Pro",
+      "joined": "2026-02-27",
+      "participation": [
+        "surveys",
+        "interviews"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "1829165",
+      "name": "Søren Lund",
+      "email": "søren@fjordview.dk",
+      "phone": "+45 31 44 70 99",
+      "city": "Roskilde",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Lønansvarlig",
+      "userType": "BO",
+      "company": "Fjordview Studio",
+      "cvr": "15606055",
+      "subscription": "Smart",
+      "joined": "2023-01-24",
+      "participation": [
+        "tests",
+        "onsite-economic",
+        "interviews"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "1877776",
+      "name": "Nanna Riis",
+      "email": "nanna@brohuset.dk",
+      "phone": "+45 59 92 83 97",
+      "city": "Vejle",
+      "languages": [
+        "da",
+        "en"
+      ],
+      "jobRole": "Anden rolle",
+      "userType": "BO",
+      "company": "Brohuset IT",
+      "cvr": "15979792",
+      "subscription": "Plus",
+      "joined": "2026-05-23",
+      "participation": [
+        "tests",
+        "surveys",
+        "onsite-customer"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "1926387",
+      "name": "Emil Lindhardt",
+      "email": "emil@skovly.dk",
+      "phone": "+45 69 95 54 12",
+      "city": "Kolding",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "IT/digitaliseringsansvarlig",
+      "userType": "BO",
+      "company": "Skovly Tømrer",
+      "cvr": "16353529",
+      "subscription": "Basis",
+      "joined": "2026-06-06",
+      "participation": [
+        "surveys",
+        "onsite-customer"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "1974998",
+      "name": "Freja Dahl",
+      "email": "freja@strandvejen.dk",
+      "phone": "+45 98 24 73 17",
+      "city": "Horsens",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Ejer/partner",
+      "userType": "BO",
+      "company": "Strandvejen Tandlæger",
+      "cvr": "16727266",
+      "subscription": "Smart",
+      "joined": "2024-05-05",
+      "participation": [
+        "tests"
+      ],
+      "interestAreas": [
+        "inventory"
+      ]
+    },
+    {
+      "agreement": "1123610",
+      "name": "Mads Skov",
+      "email": "mads@noerreport.dk",
+      "phone": "+45 51 60 60 73",
+      "city": "Randers",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Bogholder for én virksomhed (intern)",
+      "userType": "BO",
+      "company": "Nørreport Kaffe",
+      "cvr": "17101003",
+      "subscription": "Pro",
+      "joined": "2023-03-15",
+      "participation": [
+        "tests",
+        "surveys",
+        "interviews"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "1172221",
+      "name": "Sofie Nørgaard",
+      "email": "sofie@nordlys.dk",
+      "phone": "+45 71 80 45 27",
+      "city": "København",
+      "languages": [
+        "da",
+        "en"
+      ],
+      "jobRole": "Revisorassistent/regnskabsassistent",
+      "userType": "AO",
+      "company": "Nordlys Design ApS",
+      "cvr": "17474740",
+      "subscription": "Smart",
+      "joined": "2026-09-09",
+      "participation": [
+        "surveys"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "1220832",
+      "name": "Jesper Friis",
+      "email": "jesper@moellevang.dk",
+      "phone": "+45 73 55 97 58",
+      "city": "Aarhus",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Administrationsmedarbejder",
+      "userType": "BO",
+      "company": "Møllevang Consulting",
+      "cvr": "17848477",
+      "subscription": "Plus",
+      "joined": "2024-03-03",
+      "participation": [
+        "tests",
+        "onsite-economic",
+        "interviews"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "1269443",
+      "name": "Astrid Bang",
+      "email": "astrid@kloevermark.dk",
+      "phone": "+45 42 29 39 94",
+      "city": "Odense",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Ejer/partner",
+      "userType": "BO",
+      "company": "Kløvermark Revision",
+      "cvr": "18222214",
+      "subscription": "Basis",
+      "joined": "2024-01-16",
+      "participation": [
+        "tests",
+        "surveys",
+        "onsite-customer"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "1318054",
+      "name": "Niels Vestergaard",
+      "email": "niels@enghave.dk",
+      "phone": "+45 95 33 43 46",
+      "city": "Aalborg",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Controller",
+      "userType": "BO",
+      "company": "Enghave Bageri",
+      "cvr": "18595951",
+      "subscription": "Smart",
+      "joined": "2023-03-14",
+      "participation": [
+        "surveys",
+        "onsite-customer",
+        "interviews"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "1366665",
+      "name": "Cecilie Thomsen",
+      "email": "cecilie@lyngholm.dk",
+      "phone": "+45 88 57 88 82",
+      "city": "Esbjerg",
+      "languages": [
+        "da",
+        "en"
+      ],
+      "jobRole": "Ejer/partner",
+      "userType": "BO",
+      "company": "Lyngholm Media",
+      "cvr": "18969688",
+      "subscription": "Pro",
+      "joined": "2025-03-23",
+      "participation": [
+        "tests",
+        "interviews"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "1415276",
+      "name": "Lars Mørch",
+      "email": "lars@hedebo.dk",
+      "phone": "+45 85 89 93 96",
+      "city": "Roskilde",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Bogholder for én virksomhed (intern)",
+      "userType": "BO",
+      "company": "Hedebo Landbrug",
+      "cvr": "19343425",
+      "subscription": "Smart",
+      "joined": "2023-08-28",
+      "participation": [
+        "tests",
+        "surveys",
+        "interviews"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "1463887",
+      "name": "Julie Brandt",
+      "email": "julie@aahuset.dk",
+      "phone": "+45 91 60 60 61",
+      "city": "Vejle",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Revisorassistent/regnskabsassistent",
+      "userType": "AO",
+      "company": "Åhuset Yoga",
+      "cvr": "19717162",
+      "subscription": "Plus",
+      "joined": "2026-02-16",
+      "participation": [
+        "surveys",
+        "interviews"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "1512498",
+      "name": "Morten Winther",
+      "email": "morten@havnegade.dk",
+      "phone": "+45 71 17 34 18",
+      "city": "Kolding",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Administrationsmedarbejder",
+      "userType": "BO",
+      "company": "Havnegade Regnskab",
+      "cvr": "20090899",
+      "subscription": "Basis",
+      "joined": "2024-08-06",
+      "participation": [
+        "tests",
+        "onsite-economic"
+      ],
+      "interestAreas": [
+        "inventory"
+      ]
+    },
+    {
+      "agreement": "1561109",
+      "name": "Amalie Toft",
+      "email": "amalie@groen.dk",
+      "phone": "+45 34 53 86 16",
+      "city": "Horsens",
+      "languages": [
+        "da",
+        "en"
+      ],
+      "jobRole": "Anden rolle",
+      "userType": "BO",
+      "company": "Grøn Have Anlæg",
+      "cvr": "20464636",
+      "subscription": "Smart",
+      "joined": "2023-01-19",
+      "participation": [
+        "tests",
+        "surveys",
+        "onsite-customer",
+        "interviews"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "1609720",
+      "name": "Peter Holm",
+      "email": "peter@solsiden.dk",
+      "phone": "+45 39 78 22 56",
+      "city": "Randers",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Økonomichef",
+      "userType": "BO",
+      "company": "Solsiden Fysioterapi",
+      "cvr": "20838373",
+      "subscription": "Pro",
+      "joined": "2023-02-28",
+      "participation": [
+        "surveys",
+        "onsite-customer"
+      ],
+      "interestAreas": []
+    },
+    {
+      "agreement": "1658331",
+      "name": "Mette Bech",
+      "email": "mette@tvaergade.dk",
+      "phone": "+45 46 88 58 29",
+      "city": "København",
+      "languages": [
+        "da"
+      ],
+      "jobRole": "Administrerende direktør",
+      "userType": "BO",
+      "company": "Tværgade Advokater",
+      "cvr": "21212110",
+      "subscription": "Smart",
+      "joined": "2025-06-20",
+      "participation": [
+        "tests"
+      ],
+      "interestAreas": []
+    }
+  ],
+  "synced": "2026-10-27T07:00:00Z"
+}
