@@ -405,7 +405,7 @@
         "en"
       ],
       "jobRole": "Revisor for én virksomhed",
-      "userType": "BO",
+      "userType": "AO",
       "company": "Grøn Have Anlæg",
       "cvr": "12989896",
       "subscription": "Smart",
@@ -425,8 +425,8 @@
       "languages": [
         "da"
       ],
-      "jobRole": "Lønansvarlig",
-      "userType": "BO",
+      "jobRole": "Bogholder for flere virksomheder (ekstern)",
+      "userType": "AO",
       "company": "Solsiden Fysioterapi",
       "cvr": "13363633",
       "subscription": "Pro",
@@ -516,8 +516,8 @@
       "languages": [
         "da"
       ],
-      "jobRole": "Bogholder for én virksomhed (intern)",
-      "userType": "BO",
+      "jobRole": "Bogholder for flere virksomheder (ekstern)",
+      "userType": "AO",
       "company": "Birkelund Elektrik",
       "cvr": "14858581",
       "subscription": "Smart",
@@ -558,8 +558,8 @@
       "languages": [
         "da"
       ],
-      "jobRole": "Lønansvarlig",
-      "userType": "BO",
+      "jobRole": "Bogholder for flere virksomheder (ekstern)",
+      "userType": "AO",
       "company": "Fjordview Studio",
       "cvr": "15606055",
       "subscription": "Smart",
@@ -646,8 +646,8 @@
       "languages": [
         "da"
       ],
-      "jobRole": "Bogholder for én virksomhed (intern)",
-      "userType": "BO",
+      "jobRole": "Bogholder for flere virksomheder (ekstern)",
+      "userType": "AO",
       "company": "Nørreport Kaffe",
       "cvr": "17101003",
       "subscription": "Pro",
@@ -777,8 +777,8 @@
       "languages": [
         "da"
       ],
-      "jobRole": "Bogholder for én virksomhed (intern)",
-      "userType": "BO",
+      "jobRole": "Bogholder for flere virksomheder (ekstern)",
+      "userType": "AO",
       "company": "Hedebo Landbrug",
       "cvr": "19343425",
       "subscription": "Smart",
