@@ -316,8 +316,8 @@
       "languages": [
         "da"
       ],
-      "jobRole": "Administrationsmedarbejder",
-      "userType": "BO",
+      "jobRole": "Revisor for flere virksomheder",
+      "userType": "AO",
       "company": "Enghave Bageri",
       "cvr": "11121211",
       "subscription": "Smart",
@@ -449,8 +449,8 @@
       "languages": [
         "da"
       ],
-      "jobRole": "Anden rolle",
-      "userType": "BO",
+      "jobRole": "Revisor for flere virksomheder",
+      "userType": "AO",
       "company": "Tværgade Advokater",
       "cvr": "13737370",
       "subscription": "Smart",
@@ -495,8 +495,8 @@
         "da",
         "en"
       ],
-      "jobRole": "Ejer/partner",
-      "userType": "BO",
+      "jobRole": "Revisor for flere virksomheder",
+      "userType": "AO",
       "company": "Vestkyst Maling",
       "cvr": "14484844",
       "subscription": "Basis",
